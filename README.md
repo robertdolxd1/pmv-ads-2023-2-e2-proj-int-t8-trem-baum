@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Fulvius Wolfgang Faria Fonseca Macedo
-* Nome completo do aluno 2
+* Harttur Luiz Junio D. da Silva
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
